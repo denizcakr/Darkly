@@ -1,18 +1,18 @@
 # Darkly
---
+---
 Bu proje, basit bir web sitesini denetleyerek riskler ve güvenlik açıkları hakkında bilgi vermeyi amaçlamaktadır. (This project, aims to inform about risks and security vulnerabilities by auditing a simple website.)
---
+---
 
 `OWASP Top 10 listesinin açıklamalarını ve çalışmalarımı içerir, bu repoya eklemeler devam etmektedir. (It includes the OWASP Top 10 list and my project work, additions to this repository are ongoing.)`
 
 ## OWASP Nedir?
---
+---
 OWASP (Open Web Application Security Project), web uygulama güvenliği alanında dünya çapında tanınan, kar amacı gütmeyen bir organizasyondur. Bu topluluk, web uygulamalarının güvenliğini artırmak için araçlar, dokümantasyon, standartlar ve eğitim materyalleri geliştirmektedir.
---
+---
 ## OWASP Top 10 Nedir?
---
+---
 OWASP Top 10, web uygulamalarında karşılaşılan en kritik 10 güvenlik riskini listeleyen, düzenli olarak güncellenen bir standarttır. İlk kez 2003 yılında yayımlanan bu liste, her 3-4 yılda bir güncellenmekte ve sektördeki güvenlik uzmanları tarafından referans olarak kullanılmaktadır.
---
+---
 
 # OWASP Top 10 Listesi (Güncel)
 
